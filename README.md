@@ -1,7 +1,7 @@
 ### Hi there, I'm Vlad - [website] 👋
 
 #### TECHNICAL SKILLS:
-<ins>Languages</ins>: JavaScript, HTML, CSS, SSS, SCSS. <br/>
+<ins>Languages</ins>: JavaScript, HTML, CSS, SASS, SCSS. <br/>
 <ins>Library/Frameworks</ins>: React.js, Bootstrap, Material UI, Foundation, ExpressJS(Just started learn)<br/>
 <ins>Management</ins>: Jira, Slack, Skype.<br/>
 <ins>OS</ins>: MS Windows, Linux.<br/>
