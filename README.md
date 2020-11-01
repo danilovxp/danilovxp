@@ -1,6 +1,15 @@
 ### Hi there, I'm Vlad - [website] 👋
 
-## I'm a Father, Husband,  and Developer!!
+#### TECHNICAL SKILLS:
+<ins>Languages</ins>: JavaScript, HTML, CSS, SSS, SCSS. <br/>
+<ins>Library/Frameworks</ins>: React.js, Bootstrap, Material UI, Foundation, ExpressJS(Just started learn)<br/>
+<ins>Management</ins>: Jira, Slack, Skype.<br/>
+<ins>OS</ins>: MS Windows, Linux.<br/>
+<ins>Testing</ins>: Unit testing, e2e, UI testing, WebDriver.io, Cypress.<br/>
+<ins>Code Audit Tools</ins>: ESLint, Prettier.<br/>
+<ins>IDE</ins>: Visual Studio Code, Webstorm Intellij, Atom.<br/>
+<ins>Design</ins>: Avocode, Sketch, Figma, Photoshop XD.<br/>
+<ins>Other</ins>: Git, GitHub, BEM, Gulp.js, WebPack, NPM, Yarn, Heroku<br/>
 
 - I’m currently learning React.js
 
