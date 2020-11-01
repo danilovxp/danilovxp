@@ -11,8 +11,6 @@
 <ins>Design</ins>: Avocode, Sketch, Figma, Photoshop XD.<br/>
 <ins>Other</ins>: Git, GitHub, BEM, Gulp.js, WebPack, NPM, Yarn, Heroku<br/>
 
-- I’m currently learning React.js
-
 ### Connect with me:
 
 [<img align="left" alt="vladdanilov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
