@@ -39,6 +39,15 @@
 ---
 # Projects 
 
+<h2 align="center"> Star Wars Responsive Web Site </h2>
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/vEBXZLLGT8Y8E8VF7d/giphy.gif">
+</p>
+<p align="center">
+  <a href="https://github.com/danilovxp/star-wars-website" class="code">Code</a>&nbsp &nbsp &nbsp &nbsp
+  <a href="https://star-wars-website.herokuapp.com/" class="Live Demo">Live Demo</a>
+</p>
+
 
   <img align="left" alt="danilovxp's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danilovxp&show_icons=true&hide_border=true&theme=vue" />
 
