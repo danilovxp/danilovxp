@@ -37,7 +37,7 @@
 <br />
 
 ---
-# Projects 
+### Projects 
 
 <h2 align="center"> Star Wars Responsive Web Site </h2>
 <p align="center">
