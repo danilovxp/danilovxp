@@ -49,6 +49,18 @@
 </p>
 
 
+<h2 align="center">Codewars Katas</h2>
+<p align="center">
+  <img width="460" height="300" src="https://www.codewars.com/users/danilovxp/badges/large">
+</p>
+<p align="center">
+  <a href="https://github.com/danilovxp/CodeWarsTraning" class="code">Code</a>&nbsp &nbsp &nbsp &nbsp
+  <a href="https://www.codewars.com/users/danilovxp" class="Live Demo">Live Demo</a>
+</p>
+
+
+
+
   <img align="left" alt="danilovxp's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danilovxp&show_icons=true&hide_border=true&theme=vue" />
 
 [website]: https://vladdanilov.dev
