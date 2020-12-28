@@ -51,7 +51,10 @@
 
 <h2 align="center">Codewars Katas</h2>
 <p align="center">
-  <img width="460" height="300" src="https://www.codewars.com/users/danilovxp/badges/large">
+  <img width="460" height="100" src="https://www.codewars.com/users/danilovxp/badges/large">
+</p>
+<p align="center">
+ Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
 </p>
 <p align="center">
   <a href="https://github.com/danilovxp/CodeWarsTraning" class="code">Code</a>&nbsp &nbsp &nbsp &nbsp
