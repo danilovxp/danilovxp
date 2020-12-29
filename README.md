@@ -60,11 +60,13 @@
   <a href="https://github.com/danilovxp/CodeWarsTraning" class="code">Code</a>&nbsp &nbsp &nbsp &nbsp
   <a href="https://www.codewars.com/users/danilovxp" class="Live Demo">Live Demo</a>
 </p>
+___
 
 
-
-
-  <img align="left" alt="danilovxp's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danilovxp&show_icons=true&hide_border=true&theme=vue" />
+<p align="center">
+ <img align="center" alt="danilovxp's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danilovxp&show_icons=true&hide_border=true&theme=vue" />
+</p>
+  
 
 [website]: https://vladdanilov.dev
 [twitter]: https://twitter.com/danilovxp
