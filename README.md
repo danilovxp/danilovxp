@@ -3,7 +3,7 @@
 #### TECHNICAL SKILLS:
 <ins>Languages</ins>: JavaScript, HTML, CSS, SASS, SCSS. <br/>
 <ins>Library/Frameworks</ins>: React.js, Bootstrap, Material UI, Foundation, ExpressJS(Just started learn)<br/>
-<ins>Management</ins>: Jira, Slack, Skype.<br/>
+<ins>Management</ins>: Jira, Azure DevOps <br/>
 <ins>OS</ins>: MS Windows, Linux.<br/>
 <ins>Testing</ins>: Unit testing, e2e, UI testing, WebDriver.io, Cypress.<br/>
 <ins>Code Audit Tools</ins>: ESLint, Prettier.<br/>
